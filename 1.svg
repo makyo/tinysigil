@@ -3,17 +3,17 @@
     width="350"
     height="350">
     <style>
-        path {
+        * {
             fill: none;
             stroke: black;
             stroke-width: 5px;
         }
     </style>
+    <rect x="0" y="0" width="350" height="350" />
     <path d="
         M 100 25
         l 0 150
-        q 0 50 50 50" />
-    <path d="
+        q 0 50 50 50
         M 150 75
         l 0 200
         q 0 -50 -50 -50
