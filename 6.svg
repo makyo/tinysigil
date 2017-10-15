@@ -1,0 +1,40 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="350"
+    height="350">
+    <style>
+        * {
+            fill: none;
+            stroke: black;
+            stroke-width: 5px;
+        }
+    </style>
+    <rect x="0" y="0" width="350" height="350" />
+    <g transform="translate(350 0) scale(-1 1) rotate(180 175 175)">
+        <path d="
+            M 175 25
+            l 75 0
+            q 30 0 30 30
+            s 0 30 -30 30
+            l -150 0
+            q -30 0 -30 30
+            s 0 30 30 30
+            l 150 0
+            q 30 0 30 -30
+            s 0 -30 -30 -30
+            l -150 0
+            q -30 0 -30 -30
+            s 0 -30 30 -30
+            l 75 0
+            l 0 200
+            l 100 0
+            l 0 -80
+            m -200 80
+            l 100 -80
+            l 100 80
+            l -100 80
+            l -100 -80
+            m 100 80
+            l 0 30" />
+    </g>
+</svg>
