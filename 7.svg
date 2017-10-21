@@ -1,0 +1,30 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="350"
+    height="350">
+    <style>
+        * {
+            fill: none;
+            stroke: black;
+            stroke-width: 5px;
+        }
+    </style>
+    <rect x="0" y="0" width="350" height="350" />
+    <path d="
+        M 25 25
+        l 250 0
+        q 50 0 50 25
+        q 0 25 -50 25
+        l -250 0
+        m 150 -50
+        l 0 200
+        c 50 -12 50 50 0 25
+        c -50 -12 -50 50 0 25
+        c 50 -12 50 50 0 25
+        s -50 10 -50 25
+        M 100 25
+        q 0 50 -50 100
+        q 50 0 125 25
+        q 50 -25 125 -25
+        q -50 -50 -50 -100" />
+</svg>
