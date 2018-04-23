@@ -1,0 +1,28 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    width="350"
+    height="350">
+    <style>
+        * {
+            fill: none;
+            stroke: black;
+            stroke-width: 5px;
+        }
+    </style>
+    <rect x="0" y="0" width="350" height="350" />
+    <path d="
+        M 175 25
+        l -75 75
+        l 75 75
+        l 75 -75
+        l -75 -75
+        m -50 50
+        l 100 0
+        m -50 0
+        l 0 150
+        m 0 -150
+        l -125 125
+        l 125 125
+        l 125 -125
+        l -125 -125" />
+</svg>
